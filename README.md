@@ -27,19 +27,21 @@ From the Citi Bike data, a homepage and four corresponding dashboards were creat
 
 The homepage serves as an introduction to the project, providing a concise overview of its purpose and contents. It clearly summarizes the key insights and findings of each dashboard, allowing for quick and easy navigation.
 
-![Alt text](image.png)
+  ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/fb9fa8d9-f9ef-4e96-9e0c-86aea51f411f)
+
 
 ### Station Analysis
 
 The dashboard presents a comprehensive analysis of trips in relation to stations.It gives us popular start and End Stations,total number of stations,total number of bikes and total trip duration.
 
-![Alt text](image-3.png)
+  ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/81cf9588-c4fd-4ff2-8461-0af33a5e5dea)
 
 ### Geographical Analysis
 
 The dashboard features two maps showcasing the geographical locations of the start and end stations.The size represents the the total numbers of bikes for that station and color is used to represnet the station name.
 
-![Alt text](image-1.png)
+  ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/f53a587e-428a-4e4b-a877-f718165096e1)
+
 
 ### Bike Usage Analysis
 
@@ -47,39 +49,53 @@ Bike usage Analysis
 
 The dashboard focuses on analysis of the usage of bikes on weekdays throught thw year.Also analyzes during which months the bikes are used the most and also which types of bikes are used the most.
 
-![Alt text](image-2.png)
+  ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/0c48833b-60f8-4662-8363-bc0b098fa0d5)
+
+
 
 ### User and Rush hour Analysis
 
 This section focuses to analyze on the type of users using the bike and also analyzes on which hours during the day are the bikes used the most.
 
-![Alt text](image-5.png)
+  ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/e62eb793-21ef-4db7-acff-c787d964062b)
 
-### Summary of Anlysis
+
+
+## Summary of Anlysis
 
 - More bike rides were taken with classic bikes in comparison to the rest. Electric bikes might require periodic charging, and docked bikes might be limited by the total time of use available.
 
-  ![Alt text](image-6.png)
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/30c989b4-477b-4ef3-8c79-15f51e808247)
+
 
 * It can be seen that bike usage increases mostly for all months on Wednesdays and Thrusdays. This may be attributed to the proximity of biking stations to one's office or home and the ease of using it. Perhaps more people prefer to get away from the city on weekends and hence relativly less bikes are used from Citibike's program.
 
-![Alt text](image-7.png)
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/130b976d-1b53-4871-b0cd-d802bf9bf5fb)
+
 
 - The statistical analysis also showed the precent of increase in bike usage during summer where August and July are the months people prefer using bike.During the months of Winter (Deceember,Januray and February) the usage of bikes drops to almost half the usage in summers.
-  ![Alt text](image-8.png)
+ 
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/12776d40-0dc3-4cf0-948b-7bbf0c7f31ad)
 
 * Statistical Anlysis of stations shows the total number of start and end stations,total bikes used and total trip duratin in hours.
 
-  ![Alt text](image-9.png)
+   ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/2ac2c423-f133-464d-b599-ff71cba68150)
+
 
 * Grove St path station is the most popular start and end station.And it has the most number of classic bikes and also members using the bike
-  ![Alt text](image-10.png)
+
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/7b2570d6-da55-4803-8a61-5bce3e998653)
+
+
 
 * There are more people who are members of the Citi bike program then the casual riders throughout the year.
 
-  ![Alt text](image-12.png)
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/312bce95-da5a-4f9f-88d9-f42fd050ed0b)
+
 
 * It is noteworthy that the peak utilization of citibikes in Jersey City occurs during the weekday, specifically during the hours of 7 a.m. to 8 a.m. in mornings and 5 p.m. to 7 p.m. in evenings, as a significant number of commuters utilize bicycles for their daily commute.
   Where as on weekends the peak hours are after 11 a.m. to 4 p.m.
 
-  ![Alt text](image-13.png)
+    ![image](https://github.com/ShubhangiBidkar/Citi-Bike-Analysis--Using-Tableau/assets/38162670/4fb79f9b-931c-4fe5-a44d-fdfb51760c30)
+
+
